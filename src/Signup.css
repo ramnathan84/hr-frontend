@@ -1,0 +1,21 @@
+.signup-container {
+   
+      padding: 1%;
+}
+
+.signup-form-button {
+    width: 30%;
+    margin-top: 15px;
+}
+
+.signup-form-button[disabled], .signup-form-button[disabled]:hover, .signup-form-button[disabled]:focus {
+    opacity: 0.6;
+    color: #fff;
+    background-color: #1890ff;
+    border-color: #1890ff;
+}
+
+.signup-form input {
+    margin-bottom: 10px;
+    width: 30%;
+}
